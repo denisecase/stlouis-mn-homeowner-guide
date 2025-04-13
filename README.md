@@ -1,7 +1,7 @@
-# stlouis-mn-homeowner-guide  
-Practical resources for permanent homeowners in St. Louis County, Minnesota.
+# St. Louis County Minnesota Homeowners Guide
+Practical resources as a permanent homeowner in St. Louis County, Minnesota.
 
-Includes links to relevant county and state regulations and resources associated with permitting, zoning, septic, wells, shoreline regulations, and rural stewardship.
+Includes links to county and state regulations and resources associated with permitting, zoning, septic, wells, shoreline regulations, and rural stewardship.
 
 ---
 
