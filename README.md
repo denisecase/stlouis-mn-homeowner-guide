@@ -133,7 +133,7 @@ Includes links to county and state regulations and resources associated with per
 
 ---
 
-## Timeline Reference: From Build to Living
+## Timeline Reference: From Building to Living
 
 ### Phase 1: Site Setup and Construction
 - Confirm zoning and permitted uses: <https://www.stlouiscountymn.gov/departments-a-z/planning-and-zoning>
