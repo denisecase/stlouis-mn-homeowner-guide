@@ -3,6 +3,11 @@ Practical resources as a permanent homeowner in St. Louis County, Minnesota.
 
 Includes links to county and state regulations and resources associated with permitting, zoning, septic, wells, shoreline regulations, and rural stewardship.
 
+Recommended:
+
+- Wild Fire Tracking App: [Watch Duty](https://www.watchduty.org/)
+- NOAA Heat Index app: [HEAT Safety Tool](https://www.osha.gov/heat/heat-app)
+
 ---
 
 ## Essential References by Topic
