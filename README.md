@@ -104,6 +104,7 @@ Recommended:
 - Lake Country Power (Electric Cooperative): <https://www.lakecountrypower.coop>
 - Solid Waste & Recycling (general page): <https://www.stlouiscountymn.gov/departments-a-z/environmental-services>
 - Transfer Stations & Drop-Off Info: <https://www.stlouiscountymn.gov/departments-a-z/environmental-services>
+- Transfer Stations [Locations & Hours](https://www.stlouiscountymn.gov/Portals/0/Library/Dept/Environmental%20Services/Solid-Waste/Garbage/Facility-Services-updated%2009_03_24.pdf)
 - Waste Management (Private Service): <https://www.wm.com>
 - USPS Locator / Address Management: <https://tools.usps.com/go/POLocatorAction>
 
