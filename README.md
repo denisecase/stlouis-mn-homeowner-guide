@@ -85,7 +85,8 @@ Recommended:
   - Must prevent structural damage by allowing water flow  
   - Openings must be installed below base flood elevation  
   - Each enclosed area must have a minimum of 1 sq. inch vent per 1 sq. foot of enclosed space  
-  - Vents must be on at least two sides of the structure  
+  - Vents must be on at least two sides of the structure
+  - The bottom of each opening must be not more than 1 foot above the higher of the final interior grade (or floor) and the finished exterior grade immediately under each opening.
   - Source: [Contact St. Louis County Planning & Zoning](https://www.stlouiscountymn.gov/departments-a-z/planning-zoning)
 
 - **FEMA Flood Opening Requirements:**  
