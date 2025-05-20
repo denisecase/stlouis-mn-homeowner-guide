@@ -89,7 +89,7 @@ Recommended:
   - Source: [Contact St. Louis County Planning & Zoning](https://www.stlouiscountymn.gov/departments-a-z/planning-zoning)
 
 - **FEMA Flood Opening Requirements:**  
-  <[https://www.fema.gov/floodplain-management/flood-openings](https://www.fema.gov/sites/default/files/2020-07/fema_tb1_openings_foundation_walls_walls_of_enclosures_031320.pdf)>
+  - [https://www.fema.gov/floodplain-management/flood-openings](https://www.fema.gov/sites/default/files/2020-07/fema_tb1_openings_foundation_walls_walls_of_enclosures_031320.pdf)
 
 ### Floodplain & Driveways
 - FEMA Flood Map Center: <https://msc.fema.gov/portal/home>
